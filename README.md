@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **Balasuriyabala/Balasuriyabala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,4 +11,4 @@ Here are some ideas to get you started:
 - 💻 Skills: AWS | Docker | Terraform | Jenkins | Prisma Cloud |Linux
 - 📫 Reach me at: balasuriyamech15@gmail.com | www.linkedin.com/in/bala-suriya
 
->
+
